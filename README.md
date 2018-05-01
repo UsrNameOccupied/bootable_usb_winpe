@@ -1,5 +1,4 @@
 # bootable_usb_winpe
----
 ### Run：
 > 把bootable_usb_winpe_builder.bat以及Tools文件夹提取到${install_path}\Tools\PETools目录下，运行bootable_usb_winpe_builder.bat即可。
 ### Note：
